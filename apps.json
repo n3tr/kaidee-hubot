@@ -1,0 +1,9 @@
+{
+  "pearl": {
+    "provider": "fabric",
+    "repository": "dealfish/BlackPearl",
+    "environments": ["staging"]
+
+  }
+}
+
