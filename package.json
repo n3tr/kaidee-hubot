@@ -7,6 +7,7 @@
   "dependencies": {
     "coffee-script": "^1.7.1",
     "hubot": "^2.12.0",
+    "hubot-auto-deploy": "^0.1.9",
     "hubot-deploy": "^0.6.51",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.1.4",
