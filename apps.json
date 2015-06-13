@@ -5,5 +5,10 @@
     "repository": "n3tr/kaidee-hubot",
     "environments": ["production"],
     "heroku_production_name": "kaidee-hubot"
+  },
+  "hubot-fabric": {
+    "provider": "fabric",
+    "repository": "n3tr/kaidee-hubot",
+    "environments": ["production","staging"]
   }
 }
