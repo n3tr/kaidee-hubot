@@ -1,9 +1,8 @@
 {
-  "pearl": {
-    "provider": "fabric",
+  "hubot": {
+    "provider": "heroku",
     "auto_merge": false,
-    "repository": "dealfish/BlackPearl",
-    "environments": ["production","staging"]
-
+    "repository": "n3tr/kaidee-hubot",
+    "environments": ["production"]
   }
 }
