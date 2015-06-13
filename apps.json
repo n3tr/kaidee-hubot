@@ -3,6 +3,7 @@
     "provider": "heroku",
     "auto_merge": false,
     "repository": "n3tr/kaidee-hubot",
-    "environments": ["production"]
+    "environments": ["production"],
+    "heroku_production_name": "kaidee-hubot"
   }
 }
